@@ -1,4 +1,5 @@
 # LibrarayManagement
+This is backend of the library management 
 
-Taking classes on readme 
-dbwjkbfcjwbc
+# routes and endpoints 
+GET: get all the users
