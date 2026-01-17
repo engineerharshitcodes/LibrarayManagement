@@ -1,0 +1,125 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John",
+      "surname": "Doe",
+      "email": "john.doe@gmail.com",
+      "issuedBook": "1",
+      "issueDate": "04/01/2022",
+      "returnDate": "05/01/2022",
+      "subscriptionType": "Premium",
+      "subscriptionDate": "01/01/2022"
+    },
+    {
+      "id": "2",
+      "name": "Jane",
+      "surname": "Smith",
+      "email": "jane.smith@gmail.com",
+      "issuedBook": "2",
+      "issueDate": "10/02/2022",
+      "returnDate": "20/02/2022",
+      "subscriptionType": "Basic",
+      "subscriptionDate": "01/02/2022"
+    },
+    {
+      "id": "3",
+      "name": "Michael",
+      "surname": "Brown",
+      "email": "michael.brown@gmail.com",
+      "issuedBook": "3",
+      "issueDate": "15/03/2022",
+      "returnDate": "25/03/2022",
+      "subscriptionType": "Premium",
+      "subscriptionDate": "10/03/2022"
+    },
+    {
+      "id": "4",
+      "name": "Emily",
+      "surname": "Wilson",
+      "email": "emily.wilson@gmail.com",
+      "issuedBook": "4",
+      "issueDate": "05/04/2022",
+      "returnDate": "15/04/2022",
+      "subscriptionType": "Basic",
+      "subscriptionDate": "01/04/2022"
+    },
+    {
+      "id": "5",
+      "name": "Daniel",
+      "surname": "Taylor",
+      "email": "daniel.taylor@gmail.com",
+      "issuedBook": "5",
+      "issueDate": "01/05/2022",
+      "returnDate": "12/05/2022",
+      "subscriptionType": "Premium",
+      "subscriptionDate": "28/04/2022"
+    },
+    {
+      "id": "6",
+      "name": "Sophia",
+      "surname": "Anderson",
+      "email": "sophia.anderson@gmail.com",
+      "issuedBook": "6",
+      "issueDate": "18/06/2022",
+      "returnDate": "28/06/2022",
+      "subscriptionType": "Basic",
+      "subscriptionDate": "15/06/2022"
+    },
+    {
+      "id": "7",
+      "name": "William",
+      "surname": "Thomas",
+      "email": "william.thomas@gmail.com",
+      "issuedBook": "7",
+      "issueDate": "02/07/2022",
+      "returnDate": "12/07/2022",
+      "subscriptionType": "Premium",
+      "subscriptionDate": "30/06/2022"
+    },
+    {
+      "id": "8",
+      "name": "Olivia",
+      "surname": "Martin",
+      "email": "olivia.martin@gmail.com",
+      "issuedBook": "2",
+      "issueDate": "10/08/2022",
+      "returnDate": "20/08/2022",
+      "subscriptionType": "Basic",
+      "subscriptionDate": "05/08/2022"
+    },
+    {
+      "id": "9",
+      "name": "James",
+      "surname": "Lee",
+      "email": "james.lee@gmail.com",
+      "issuedBook": "4",
+      "issueDate": "12/09/2022",
+      "returnDate": "22/09/2022",
+      "subscriptionType": "Premium",
+      "subscriptionDate": "10/09/2022"
+    },
+    {
+      "id": "10",
+      "name": "Ava",
+      "surname": "Clark",
+      "email": "ava.clark@gmail.com",
+      "issuedBook": "1",
+      "issueDate": "01/10/2022",
+      "returnDate": "11/10/2022",
+      "subscriptionType": "Basic",
+      "subscriptionDate": "28/09/2022"
+    },
+    {
+      "id": "11",
+      "name": "Ethan",
+      "surname": "Hall",
+      "email": "ethan.hall@gmail.com",
+      "issuedBook": "6",
+      "issueDate": "15/11/2022",
+      "returnDate": "25/11/2022",
+      "subscriptionType": "Premium",
+      "subscriptionDate": "10/11/2022"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "price": "12.99",
+      "publisher": "Houghton Mifflin"
+    },
+    {
+      "id": "2",
+      "name": "The Land Before Time",
+      "author": "Alan Moore",
+      "genre": "Fantasy",
+      "price": "10.99",
+      "publisher": "Penguin Books"
+    },
+    {
+      "id": "3",
+      "name": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "price": "35.00",
+      "publisher": "Prentice Hall"
+    },
+    {
+      "id": "4",
+      "name": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "genre": "Computer Science",
+      "price": "45.99",
+      "publisher": "MIT Press"
+    },
+    {
+      "id": "5",
+      "name": "You Don’t Know JS",
+      "author": "Kyle Simpson",
+      "genre": "Programming",
+      "price": "28.50",
+      "publisher": "O’Reilly Media"
+    },
+    {
+      "id": "6",
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "price": "14.25",
+      "publisher": "HarperOne"
+    },
+    {
+      "id": "7",
+      "name": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self Help",
+      "price": "18.00",
+      "publisher": "Avery"
+    }
+  ]
+}

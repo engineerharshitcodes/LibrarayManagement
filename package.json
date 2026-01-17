@@ -1,0 +1,24 @@
+{
+  "name": "librarymanagement",
+  "version": "1.0.0",
+  "description": "This is backend of the library management for the management of users and books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engineerharshitcodes/LibrarayManagement.git"
+  },
+  "author": "Harshit Singhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engineerharshitcodes/LibrarayManagement/issues"
+  },
+  "homepage": "https://github.com/engineerharshitcodes/LibrarayManagement#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}

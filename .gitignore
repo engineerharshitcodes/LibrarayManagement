@@ -1,0 +1,5 @@
+### we do not want to track these files in github ###
+
+node_modules
+
+package-lock.json
